@@ -1,0 +1,26 @@
+city,category,value,longitude,latitude
+Guangzhou,Bandicota indica,21,113.46,23.23
+Guangzhou,Mus domesticus,2,113.46,23.23
+Guangzhou,Rattus losea,13,113.46,23.23
+Guangzhou,Rattus nitidus,9,113.46,23.23
+Guangzhou,Rattus norvegicus,11,113.46,23.23
+Guangzhou,Rattus tanezumi,26,113.46,23.23
+Jiangmen,Mus domesticus,1,112.68,22.4
+Jiangmen,Rattus norvegicus,1,112.68,22.4
+Jiangmen,Rattus tanezumi,11,112.68,22.4
+Lijiang,Apodemus chevrieri,2,100.23,26.86
+Lijiang,Rattus rattus alexandrinus,1,100.23,26.86
+Lijiang,Mus cookii,2,100.23,26.86
+Lijiang,Mus domesticus,2,100.23,26.86
+Maoming,Rattus tanezumi,1,110.93,21.86
+Kunming,Mus domesticus,1,102.83,24.88
+Yangjiang,Mus domesticus,3,111.78,21.96
+Yangjiang,Rattus nitidus,1,111.78,21.96
+Yangjiang,Rattus norvegicus,1,111.78,21.96
+Yangjiang,Rattus tanezumi,34,111.78,21.96
+Zhanjiang,Mus domesticus,1,110.36,21.27
+Zhanjiang,Rattus nitidus,1,110.36,21.27
+Zhanjiang,Rattus tanezumi,8,110.36,21.27
+Zhaoqing,Rattus tanezumi,15,112.26,23.7
+Zhaoqing,Mus domesticus,1,112.26,23.7
+Zhongshan,Rattus tanezumi,4,113.39,22.52
